@@ -1,62 +1,22 @@
-# Project Title
+PRODUCT INNOVATION HUB
 
-Simple overview of use/purpose.
+My DATASET: Product ID, Product Name, Brand Name, Price, Quantity, Category, ,Country Code, Manufacture date, Product Brand, Year,DD-MM-YY.
 
-## Description
+## Description Summary
 
-An in-depth paragraph about your project and overview of use.
+This Project uses a dataset contains information on product "price" and "Quantity".The Aim of project is Data Cleaning ,Removing Duplicates,Inconsistent data to Cleart set dataset.In that Excel how to calculate IF,ISBLANK,CLEAN,TRIM,PROPER,UPPER,LEFT,RIGHT,CONCATENATE,MEDIAN,MODE,Remove Duplicates,conditiona Formatting,Data Bar,Graph functions and Text string apply in every situation.I will get clear chart of visualization.
 
-## Getting Started
+## Goal
+Analyses calculate of Country Code, Manufacture date, Product Brand, Year,DD-MM-YY.
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* Microsoft Excel 2024.
 
-### Installing
+### Author 
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
-
-## Authors
-
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
+Idaya Gracy Jude
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
-## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)# Product-Analysis-Data-Expolaration
+This project is licensed under the [Idaya Gracy Jude] License - see the idhayaig-cmd file for details
